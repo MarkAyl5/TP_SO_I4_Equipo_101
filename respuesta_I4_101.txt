@@ -2,6 +2,11 @@
 2. En la rama desarrollo quedo el color yellow como background 
 3. En la rama main quedo el color yellow como background
 4. el favicon que quedo es el que puso alfa
+5. Si, Gamma tuvo problemas 
+6. Gamma no podia hacer el push porque habia cambios de Alfa subidos antes, y no estaban pulleados todavia
+7. Se tuvo que hacer git pull para traer los cambios y hacer un merge entre los cambios del repositorio local y remoto para solucionarlo y dejar ambas respuestas. Como consecuencia, quedaron ambos cambios realizados
+8. Si uno usaba push -f nos iba a pisar los demas commits y se iba a perder el orden de trabajar en ramas, arruinando el trabajo de los demas 
+9. Primero hay que cambiar a la rama DESARROLLO, y luego hacer un merge con la rama TESTING, aceptar los cambios de testing en el index.html y luego subir esos cambios con git add, git commit y git push al repositorio remoto
 
 Caneda Lautaro
 Ayala marcos
