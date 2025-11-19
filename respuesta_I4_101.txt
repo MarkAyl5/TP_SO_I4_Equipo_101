@@ -1,0 +1,7 @@
+1. En la rama testing quedo el color Blue como backgroud
+2. En la rama desarrollo quedo el color yellow como background 
+3. En la rama main quedo el color yellow como background
+4. el favicon que quedo es el que puso alfa
+
+Caneda Lautaro
+Ayala marcos
